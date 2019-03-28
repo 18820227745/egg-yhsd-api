@@ -7,8 +7,8 @@
   },
   "keywords": [
     "egg",
-    "eggPlugin",
-    "egg-plugin"
+    "eggYhsdApi",
+    "egg-yhsd-api"
   ],
   "dependencies": {
     "bluebird": "^3.5.3",

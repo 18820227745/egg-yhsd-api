@@ -82,11 +82,6 @@ class Yhsd {
       await create(topic, address, false);
     }
 
-    // delete hook
-    // hooks.map(async hook => {
-    //   this._api.deleteAsync(`/webhooks/${hook.id}`);
-    // });
-
   }
 }
 
