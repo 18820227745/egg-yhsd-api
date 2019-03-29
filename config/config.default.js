@@ -6,6 +6,6 @@
  * @property {String} SOME_KEY - some description
  */
 exports.yhsdApi = {
-    app: false,
-    agent: true,
+    app: true,
+    agent: false,
 };
