@@ -45,6 +45,15 @@ exports.yhsdApi = {
 ```js
 // {app_root}/config/config.default.js
 exports.yhsdApi = {
+  client: {  // client必须要
+      // 测试
+      appKey: '***',
+      appSecret: '****',
+      private: true,
+      topics: {
+        'products/create': `${host}/hook/products/create`, //  商品创建
+      },
+    },
 };
 ```
 
