@@ -7,5 +7,3 @@ module.exports = app => {
   if (app.config.yhsdApi.app) yhsdApi(app);
 };
 
-
-
