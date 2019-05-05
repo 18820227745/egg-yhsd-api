@@ -52,9 +52,7 @@ exports.yhsdApi = {
       private: true,
       topics: {
         'products/create': `${host}/hook/products/create`, //  商品创建
-      },
-      getTokenCache: null, // function 外部获取token
-      saveTokenCache: null, // function 外部储存token
+      }
     },
 };
 ```

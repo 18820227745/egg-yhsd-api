@@ -1,6 +1,6 @@
 {
   "name": "egg-yhsd-api",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "友好速搭api egg插件版",
   "eggPlugin": {
     "name": "yhsdApi"
